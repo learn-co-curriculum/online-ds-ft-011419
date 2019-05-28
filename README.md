@@ -17,7 +17,7 @@
 
 ## Connecting
 
-[**Instructor: Joe San Pietro, joe.sanpietro@flatironschool.com**]
+[**Instructor: Joe San Pietro, joe.sanpietro@flatironschool.com**](mailto:joe.sanpietro@flatironschool.com)
 
 [**Student Services Email** - studentservices@flatironschool.com](mailto:studentservices@flatironschool.com)
 
